@@ -9,5 +9,7 @@ The purpose of the game of Minesweeper is to uncover all of the cells in the gam
 
 The probability calculator marks each cell with the probability of that cell being a mine. While some of the probabilities are obvious, the solution can involve a system of equations of monstruous size, and often shows the player some smart decisions that are not necessarily intuitive.
 
+![An example board](https://github.com/rsnively/probcalc/example_board.png "Look at all those probabilities!")
+
 ##Contributions
 If you wish to contribute to the project, GitHub pull requests are preferred. Any suggestions, requests, or bug reports should be filed in the project's [issue page](https://github.com/rsnively/probcalc/issues).
